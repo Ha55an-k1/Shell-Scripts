@@ -1,3 +1,4 @@
 # Fmake
 ===
-File creation script, creates default starter code for HTML, Bash and C files.
+File creation script:
+Creates default starter code for HTML, Bash and C files.
