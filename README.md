@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Shell Scripting Practice Projects
+Shell Scripting
 =======
-# ShellScripting
-
 Shell Scripting practice projects
->>>>>>> Readme
