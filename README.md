@@ -1,1 +1,2 @@
-Shell Scripting Practice Projects
+#Shell Scripting
+Shell Scripting practice projects
