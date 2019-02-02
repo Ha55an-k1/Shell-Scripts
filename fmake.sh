@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#Bash Script that creates files with starter code and permissions
+ 
  val=$1
  type=`echo $val | cut -d"." -f2`
          if [  $type == 'c'  ]
