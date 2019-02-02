@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Bash Script that greets with appropriate message based on current time
+
  typeset -i clock=0
  user=`whoami`
  val=`date | cut -c 12-19`
