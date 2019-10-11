@@ -47,17 +47,17 @@
 
  if [[ $hour -ge 20  &&  $hour -le 24  ]]
    then 
-	format "GoodNight $user"
+	format "Good Night $user"
 
    elif [[ $hour -ge 12 && $hour -le 17  ]]
    then
-	format "GoodAfternoon $user"
+	format "Good Afternoon $user"
 
    elif [[  $hour -ge 17 && $hour -le 20  ]]
    then
-	format "GoodEvening $user" 
+	format "Good Evening $user" 
 
    elif [[ $hour -ge 0  && $clock -le 12  ]] 
    then
-	format "GoodMorning $user"
+	format "Good Morning $user"
  fi
